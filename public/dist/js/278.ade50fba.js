@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkclient"]=self["webpackChunkclient"]||[]).push([[278],{8278:(e,n,t)=>{t.r(n),t.d(n,{default:()=>l});var r=t(3673);function u(e,n,t,u,c,a){const s=(0,r.up)("router-view");return(0,r.wg)(),(0,r.j4)(s)}const c={name:"GlobalLayout"};var a=t(4260);const s=(0,a.Z)(c,[["render",u]]),l=s}}]);
